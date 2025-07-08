@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+langgraph 
+langchain 
+google-generativeai 
+sqlalchemy 
+psycopg2-binary 
+python-dotenv
+Pillow
+python-multipart
