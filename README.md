@@ -8,6 +8,15 @@ This is the backend for the AskBot Chatbot project. It's built using **FastAPI**
 
 ---
 
+## Screenshots
+
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/c51b9457-f2d6-4e99-94ab-d17947a9f8fb" />
+
+### Railway Screenshot
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/53df3adb-a3be-44a9-8c7e-6ae73206f42c" />
+
+---
+
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
